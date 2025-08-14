@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
-
+logo: https://avatars.githubusercontent.com/u/62823952?v=4&size=64
 title : Yue 的个人主页
+show_downloads: true
+google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
