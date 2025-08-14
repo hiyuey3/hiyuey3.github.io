@@ -1,7 +1,3 @@
----
-layout: default
-title: Yue 的主页
----
 
 # 👋 欢迎来到我的主页
 
@@ -33,8 +29,5 @@ title: Yue 的主页
 ---
 ---
 
-<p style="text-align: center; color: gray; font-size: 0.9rem;">
-备案号：<a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备2021006383号</a>
-</p>
-
-_本页面由 [GitHub Pages](https://pages.github.com/) 和 Markdown 构建，支持 Jekyll 自动渲染。_
+<a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备2021006383号</a>
+_本页面由 [GitHub Pages](https://pages.github.com/) 构建，支持 Jekyll 自动渲染。_
