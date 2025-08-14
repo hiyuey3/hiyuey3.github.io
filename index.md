@@ -13,7 +13,7 @@
 - 网络安全工程师
 - 网络运维工程师
 - 应急响应与电子取证
-  
+
 📦 更多项目请访问我的 [GitHub主页](https://github.com/hiyuey3)
 
 ---
@@ -33,4 +33,3 @@
 <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备2021006383号</a><br>
 本页面由 <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> 构建，支持 Jekyll 自动渲染。
 </p>
-- 📧 Email: [titusyu@acm.org](mailto:titusyu@acm.org)  
