@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 logo: https://avatars.githubusercontent.com/u/62823952?v=4
 title : Yue 的个人主页 | 5i03
-show_downloads: flase
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
