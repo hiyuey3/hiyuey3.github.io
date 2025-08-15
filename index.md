@@ -1,6 +1,6 @@
 # 👋 Welcome to my homepage
 
-**Yue**  
+## **Yue**  
 技术爱好者 | 硬件 & 网络安全 | 电子取证 | 运维 & 应急响应 | iFixit  
 
 ---
