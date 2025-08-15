@@ -16,15 +16,14 @@
 ## 📫 找到我
 
 📧 [Mail hi@xyw.cx](mailto:hi@xyw.cx)  
-<!--📱 [VoIP +19102398036](tel:+19102398036)-->  
 🐙 [GitHub](https://github.com/hiyuey3)  
 🐦 [Twitter @Y3Yue](https://twitter.com/Y3Yue)  
-<!--💬 [Telegram](https://t.me/)  -->
 💼 [LinkedIn](https://www.linkedin.com/in/)  
 📺 [Bilibili](https://space.bilibili.com/)  
-<!--📷 [Instagram](https://www.instagram.com/)  -->
 💬 [WhatsApp](https://wa.me/8613812345678)  
-
+<!--📷 [Instagram](https://www.instagram.com/)  -->
+<!--💬 [Telegram](https://t.me/)  -->
+<!--📱 [VoIP +19102398036](tel:+19102398036)-->  
 ---
 
 <sub>
