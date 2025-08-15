@@ -13,14 +13,17 @@
 📦 更多项目请访问我的 [GitHub主页](https://github.com/hiyuey3)
 
 ---
+## 📫 找到我
 
-## 📫 与我联系
-<p align="center">
-  <a href="mailto:hi@xyw.cx?subject=来自GitHub的联系"><img src="https://img.shields.io/badge/Email-hi@xyw.cx-blue?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/hiyuey3"><img src="https://img.shields.io/badge/GitHub-hiyuey3-black?logo=github" alt="GitHub"></a>
-  <a href="https://twitter.com/Y3Yue"><img src="https://img.shields.io/badge/Twitter-@Y3Yue-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="tel:+19102398036"><img src="https://img.shields.io/badge/Phone-+1_910_239_8036-green?logo=phone&logoColor=white" alt="VoIP"></a>
-</p>
+📧 [Mail hi@xyw.cx](mailto:hi@xyw.cx)  
+<!--📱 [VoIP +19102398036](tel:+19102398036)-->  
+🐙 [GitHub](https://github.com/hiyuey3)  
+🐦 [Twitter @Y3Yue](https://twitter.com/Y3Yue)  
+<!--💬 [Telegram](https://t.me/)  -->
+💼 [LinkedIn](https://www.linkedin.com/in/)  
+📺 [Bilibili](https://space.bilibili.com/)  
+<!--📷 [Instagram](https://www.instagram.com/)  -->
+💬 [WhatsApp](https://wa.me/8613812345678)  
 
 ---
 
